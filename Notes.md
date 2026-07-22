@@ -16,6 +16,7 @@ ACP - Add, Commit, Push - Mantra for workflow
 ```mermaid
 graph TD;
 Add--> Commit;
+Commit --> Add;
 Commit --> Push;
 Push --> Add;
 ```
