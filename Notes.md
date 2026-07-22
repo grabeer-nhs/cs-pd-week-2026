@@ -18,6 +18,6 @@ graph TD;
 Add--> Commit;
 Commit --> Add;
 Commit --> Push;
-Push --> Add;
+Push ---> Add;
 ```
 Ask about:  Github pages
