@@ -4,7 +4,7 @@ CSPD Git Worshop Notes
 
 'inline code'
 
-Slow is smooth and smooth is fast
+"Slow is smooth and smooth is fast."
 
 
 [up-for-grabs.net]
